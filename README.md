@@ -7,17 +7,17 @@
 
 * [Blog by Denny Britz](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
-### [Back-propagation]() 
+### [Back-propagation by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/1z9WW/backpropagation-algorithm) 
 
 ### Framesworks
 
-* [Theano]()
+* [Theano](http://deeplearning.net/software/theano/library/)
 
-* [Tensorflow]()
+* [Tensorflow](https://www.tensorflow.org/)
 
-* [Keras]()
+* [Keras](http://keras.io/)
 
-* [Lasagne]()
+* [Lasagne](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
 
 ### Generative Models
 
@@ -25,10 +25,16 @@
 
 * [Random Nets]()
 
-* 
+* [Adversarial Nets](http://arxiv.org/pdf/1406.2661v1.pdf)
+
+* [Neural Doodle](http://gitxiv.com/posts/iD8CfPqfgqixC53w8/neural-doodle)
 
 ### Deconvolution
 
-
+[DeconvNets](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf)
 
 ### Cuasality
+
+### Music representation
+
+* [Introduction to Music Content Analysis](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111826682X.html)
