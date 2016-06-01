@@ -43,6 +43,12 @@
 
 ### Music representation
 
-* [Introduction to Music Content Analysis](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111826682X.html)
-
 * [Downsampling a signal on the example of MP3](http://www.makeuseof.com/tag/technology-explained-what-is-mp3-what-is-its-origins/)
+
+* [What is MP3 by the developers themselves](http://www.mp3-history.com/en/technology.html)
+
+* [Signal Downsampling](https://en.wikipedia.org/wiki/Decimation_(signal_processing))
+
+* [Sample rate estimation](Nyquist–Shannon sampling theorem)
+
+
