@@ -57,4 +57,8 @@
 
 * [Sample rate estimation](Nyquist–Shannon sampling theorem)
 
+### Get GPU cluster computation up and running
+
+* [DAS-4 "how to" document](https://docs.google.com/document/d/1Od9nJMXiC4JfwcPq8FvXYEQDAkUlxamfcbaKItVsUcU/edit?usp=sharing)
+
 
