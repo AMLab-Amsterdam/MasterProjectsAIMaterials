@@ -11,7 +11,7 @@
 
 * [Blog by Denny Britz](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
-### [Back-propagation by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/1z9WW/backpropagation-algorithm) 
+### [Back-propagation by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/1z9WW/backpropagation-algorithm)
 
 ### Framesworks
 
@@ -40,6 +40,12 @@
 ## Applications
 
 ### Causality
+
+[Introduction to Causality Lecture Notes](https://drive.google.com/file/d/0B2DZf1QHTotxX2RiNXJ0NUwwekk/)
+
+[Kaggle challenge "Cause and Effect"](https://www.kaggle.com/c/cause-effect-pairs)
+
+[Cause-effect datasets](http://webdav.tuebingen.mpg.de/cause-effect/)
 
 ### Music representation
 
