@@ -55,7 +55,7 @@
 
 * [Signal Downsampling](https://en.wikipedia.org/wiki/Decimation_(signal_processing))
 
-* [Sample rate estimation](Nyquist–Shannon sampling theorem)
+* [Sample rate estimation](https://www.youtube.com/watch?v=yWqrx08UeUs)
 
 ### Get GPU cluster computation up and running
 
