@@ -1,4 +1,8 @@
 
+## Deep Learning
+
+### [Deep Learning Intro by Nando de Freitas](https://www.youtube.com/watch?v=PlhFWT7vAEw)
+
 ### Convnets
 
 * [in Theano](http://deeplearning.net/tutorial/lenet.html)
@@ -23,7 +27,7 @@
 
 * [Neural Style Transfer](http://arxiv.org/pdf/1508.06576v2.pdf)
 
-* [Random Nets]()
+* [Random Nets](https://nucl.ai/blog/extreme-style-machines/)
 
 * [Adversarial Nets](http://arxiv.org/pdf/1406.2661v1.pdf)
 
@@ -33,8 +37,12 @@
 
 [DeconvNets](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf)
 
-### Cuasality
+## Applications
+
+### Causality
 
 ### Music representation
 
 * [Introduction to Music Content Analysis](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111826682X.html)
+
+* [Downsampling a signal on the example of MP3](http://www.makeuseof.com/tag/technology-explained-what-is-mp3-what-is-its-origins/)
