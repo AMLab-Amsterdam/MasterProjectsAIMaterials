@@ -12,7 +12,7 @@
 
 * [Download mixture of sine dataset](https://drive.google.com/file/d/0BwvW2DIpN6dOX1RRSGZ3NXNzR2M/view?usp=sharing)
 
-Each second of the dataset consists of 3 sine waves played simultaneously, amplitudes are randomly changed every second. One note stays the same for 10 seconds and the other two are changed every second. We will provide labels for this later as well, so you can use it in a discriminator network. The frequencies are all spaced with 55hz, lowest frequency present is 110hz, highest is 440hz. Use this information to downsample the audio reasonably according to the Nyquist-theorem. 
+Each second of the dataset consists of 3 sine waves played simultaneously, amplitudes are randomly changed every second. One note is changed every 10 seconds and the other two are changed every second. We will provide labels for this later as well, so you can use it in a discriminator network. The frequencies are all spaced with 55hz, lowest frequency present is 110hz, highest is 440hz. Use this information to downsample the audio reasonably according to the Nyquist-theorem. 
 
 Your task is to set up a pipeline. Do it carefully, so you can re-use it in the rest of the project.
 
