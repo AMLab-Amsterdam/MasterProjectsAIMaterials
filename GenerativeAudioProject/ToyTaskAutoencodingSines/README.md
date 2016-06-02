@@ -18,7 +18,7 @@ Your task is to set up a pipeline. Do it carefully, so you can re-use it in the 
 
 - Prepare the data such that it can be used for training. i) Downsample audio ii) Chop the long audio into 1second pieces that will form the examples in your minibatch iii) Write a script that loads the data for learning.
 - Use the data to test your 1D autoencoder implementation.
-- Train an autoencoder with it. Try a simple model first, 1-2 layers, little filters.
+- Train an autoencoder with it. Try a simple model first, 1-2 layers, not too many filters.
 - Inspect your results, write scripts that plot reconstruction and data at once, listen to reconstructions and compare between different models.
 
 Best of luck!
