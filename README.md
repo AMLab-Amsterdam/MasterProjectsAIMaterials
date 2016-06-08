@@ -36,7 +36,7 @@
 
 * [Random Generative Nets](http://bethgelab.org/media/publications/1606.00021v1.pdf)
 
-* [LSTM textures](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf)
+* [CNN textures (inclusive sound examples)](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf)
 
 ### Deconvolution
 
