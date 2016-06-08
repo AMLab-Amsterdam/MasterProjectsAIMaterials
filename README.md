@@ -33,6 +33,11 @@
 
 * [Neural Doodle](http://gitxiv.com/posts/iD8CfPqfgqixC53w8/neural-doodle)
 
+
+* [Random Generative Nets](http://bethgelab.org/media/publications/1606.00021v1.pdf)
+
+* [LSTM textures](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet_file/doc/STGConvNet.pdf)
+
 ### Deconvolution
 
 [DeconvNets](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf)
